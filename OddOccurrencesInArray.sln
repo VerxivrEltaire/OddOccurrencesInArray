@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOccurrencesInArray", "OddOccurrencesInArray\OddOccurrencesInArray.csproj", "{500CBEFA-6385-4B39-9C95-6C4864330D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{500CBEFA-6385-4B39-9C95-6C4864330D9B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{500CBEFA-6385-4B39-9C95-6C4864330D9B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{500CBEFA-6385-4B39-9C95-6C4864330D9B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{500CBEFA-6385-4B39-9C95-6C4864330D9B}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E828B3F-7373-4D84-A329-C6A711BC72DF}
+	EndGlobalSection
+EndGlobal
